@@ -202,9 +202,10 @@
     max-width: 860px;
     width: 100%;
     background: #CCD5E6 url(../img/genshina.png) no-repeat right;
-    margin-top: 30px;
+    padding-top: 30px;
     border-radius: 10px;
     margin-bottom: 60px;
+    margin-top: 30px;
 }
 
 .title_poplin {
@@ -225,4 +226,70 @@
     line-height: 20px;
     margin-bottom: 40px;
     margin-left: 46px;
+}
+
+.button_poplin {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px 25px 10px 20px;
+    cursor: pointer;
+    height: 40px;
+    margin-bottom: 60px;
+    margin-left: 70px;
+
+}
+
+.button_poplin::before {
+    content: "$129";
+    padding: 12px ;
+}
+
+.poplins{
+    padding: 5px 12px;
+    cursor: pointer;
+}
+.poplins--primary{
+    font-family: 'Lato', sans-serif;
+    color:#FFFFFF;
+    font-size: 12px;
+    line-height: 
+    15px;
+    border:none;
+    background:#3DC47E;
+    border-radius: 3px;
+    margin-left: 46px;
+}
+
+.girl {
+    max-width: 272px;
+    width: 100%;
+    background:#FF4F52 url(../img/girl.png) no-repeat left 54px center;
+    padding-top: 30px;
+    height: 370px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    
+}
+
+.girl_title {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-left: 26px;
+    
+}
+.p_girl {
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+color: #FFFFFF;
+opacity: 0.6;
+margin-left: 26px;
 }
