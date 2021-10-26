@@ -284,12 +284,72 @@
     
 }
 .p_girl {
-font-family: Lato;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 20px;
-color: #FFFFFF;
-opacity: 0.6;
-margin-left: 26px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-left: 26px;
 }
+
+.title_arrival{
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    color: #262D33;
+    padding-left: 112px;
+    padding-bottom: 30px;
+}
+
+.title_arrival_v{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 20px;
+    padding-right: 114px;
+}
+
+
+.hoodie_new{
+    font-family: Lato;
+    color:#FFFFFF;
+    font-size: 12px;
+    line-height: 15px;
+    background: #3DC47E;
+    border-radius: 3px;
+    border:none;
+    padding: 5px 12px;
+}
+
+
+.hoodie_title{
+    font-family: Roboto Slab;
+    color: #262D33;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.section_hoodie{
+    font-family: Lato;
+    color: #4B5157;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.clothes--primary{
+    background: #FFFFFF;
+    color: #262D33;
+    border:none;
+    
+}
+
+
